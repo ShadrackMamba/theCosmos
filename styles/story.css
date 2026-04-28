@@ -1,0 +1,301 @@
+/* ================================================================
+   WEBSHAKK COSMOS — STORY PAGE
+   Background photos cover the ENTIRE page.
+   Article text is centred in the middle of the page.
+   No split layout. No sidebars. Just reading.
+================================================================ */
+
+/* ── FIXED FULL-PAGE BACKGROUNDS ─────────────────────────────────
+   Every background photo is fixed to the viewport and fills it
+   completely. Only the active one fades in. The article scrolls
+   normally on top of them like a transparent layer.
+──────────────────────────────────────────────────────────────── */
+.story-backgrounds {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: #04050a;
+}
+
+.story-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 1.8s ease;
+}
+
+.story-bg.active {
+  opacity: 1;
+}
+
+/* Dark overlay — always on, makes text readable over any photo */
+.story-bg-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+/* ── NAV ──────────────────────────────────────────────────────── */
+.nav--story {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 48px;
+  height: 64px;
+  background: rgba(4, 5, 10, 0.8);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(79, 195, 247, 0.12);
+}
+
+.nav-back {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.5);
+  transition: color 0.2s;
+}
+.nav-back:hover { color: var(--cosmos-accent); }
+
+/* ── ARTICLE ──────────────────────────────────────────────────────
+   Scrolls over the fixed backgrounds.
+   Centred on the page — NOT left-aligned, NOT split.
+──────────────────────────────────────────────────────────────── */
+.story-article {
+  position: relative;
+  z-index: 10;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 110px 48px 120px;
+}
+
+@media (max-width: 900px) {
+  .story-article { padding: 100px 28px 100px; }
+  .nav--story { padding: 0 24px; }
+}
+
+/* ── STORY HEADER ─────────────────────────────────────────────── */
+.story-article__header {
+  margin-bottom: 60px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.story-article__category {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--cosmos-accent);
+  background: rgba(79,195,247,0.1);
+  border: 1px solid rgba(79,195,247,0.25);
+  padding: 4px 14px;
+  border-radius: 100px;
+  margin-bottom: 20px;
+}
+
+.story-article__title {
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 5vw, 4rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.08;
+  color: #fff;
+  margin-bottom: 18px;
+  text-shadow: 0 2px 30px rgba(0,0,0,0.5);
+}
+
+.story-article__meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: rgba(255,255,255,0.35);
+  margin-bottom: 16px;
+}
+
+.story-article__excerpt {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  font-style: italic;
+  color: rgba(255,255,255,0.6);
+  line-height: 1.7;
+}
+
+/* ── SECTION HEADING ──────────────────────────────────────────── */
+.story-section {
+  margin-bottom: 8px;
+}
+
+.story-section__head {
+  margin: 56px 0 22px;
+}
+
+.story-section__chapter {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--cosmos-accent);
+  margin-bottom: 10px;
+}
+
+.story-section__heading {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 3.5vw, 2.6rem);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.12;
+  color: #fff;
+  text-shadow: 0 2px 20px rgba(0,0,0,0.4);
+}
+
+/* ── PROSE ────────────────────────────────────────────────────── */
+.story-prose {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  line-height: 1.88;
+  color: rgba(255,255,255,0.86);
+}
+
+.story-prose p {
+  margin-bottom: 1.5em;
+}
+
+/* drop cap on the first paragraph only */
+.story-section:first-of-type .story-prose > p:first-child::first-letter {
+  font-family: var(--font-display);
+  font-size: 4.2em;
+  font-weight: 800;
+  color: var(--cosmos-accent);
+  float: left;
+  line-height: 0.75;
+  margin: 6px 10px 0 0;
+}
+
+.story-prose strong { color: #fff; font-weight: 600; }
+
+.story-prose blockquote {
+  border-left: 3px solid var(--cosmos-gold);
+  padding: 14px 24px;
+  margin: 2em 0;
+  background: rgba(240,192,96,0.06);
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--cosmos-gold);
+  line-height: 1.65;
+}
+
+.story-prose h2 {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 2.5em 0 1em;
+  letter-spacing: -0.02em;
+}
+
+.story-prose ul,
+.story-prose ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+  color: rgba(255,255,255,0.8);
+}
+.story-prose li { margin-bottom: 0.5em; }
+
+.story-prose hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  margin: 3em 0;
+}
+
+/* ── INLINE STORY PHOTOS ──────────────────────────────────────────
+   Real photos inside the article — bleed past the text column
+   for visual impact, with caption overlaid at the bottom.
+──────────────────────────────────────────────────────────────── */
+.story-prose figure.story-photo {
+  margin: 2.8em -48px;
+  position: relative;
+  border-radius: 6px;
+  overflow: hidden;
+  display: block;
+}
+
+.story-prose figure.story-photo img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  display: block;
+  filter: brightness(0.9);
+  transition: filter 0.4s;
+}
+
+.story-prose figure.story-photo:hover img {
+  filter: brightness(1);
+}
+
+.story-prose figure.story-photo figcaption {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  padding: 40px 20px 14px;
+  background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: rgba(255,255,255,0.6);
+}
+
+@media (max-width: 900px) {
+  .story-prose figure.story-photo {
+    margin: 2em -28px;
+    border-radius: 0;
+  }
+  .story-prose figure.story-photo img { height: 260px; }
+}
+
+/* ── ARTICLE FOOTER ───────────────────────────────────────────── */
+.story-article__footer {
+  margin-top: 80px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.story-article__back {
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--cosmos-accent);
+  transition: opacity 0.2s;
+}
+.story-article__back:hover { opacity: 0.7; }
+
+.story-article__site {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.2);
+}

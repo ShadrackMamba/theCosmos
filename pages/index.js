@@ -1,15 +1,11 @@
 import { useState } from 'react'
 import Head from 'next/head'
-import { useRouter } from 'next/router'
 import Nav from '../components/Nav'
 import StoryCard from '../components/StoryCard'
 import { getAllStories, getAllCategories } from '../lib/stories'
 
 export default function Home({ stories, categories }) {
-  const router = useRouter()
-  const [activeCategory, setActiveCategory] = useState(
-    router.query.category || 'All'
-  )
+  const [activeCategory, setActiveCategory] = useState('All')
 
   const filtered = activeCategory === 'All'
     ? stories
@@ -19,9 +15,8 @@ export default function Home({ stories, categories }) {
     <>
       <Head>
         <title>Webshakk Cosmos — Science Stories for the Curious Mind</title>
-        <meta name="description" content="Webshakk Cosmos: beautifully told science stories covering space, biology, physics, and our planet." />
+        <meta name="description" content="Beautifully told science stories covering space, biology, physics, and our planet." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className="page-wrap">
@@ -34,11 +29,11 @@ export default function Home({ stories, categories }) {
             Webshakk <span className="highlight">Cosmos</span>
           </h1>
           <p className="hero-sub">
-            Where the universe's greatest stories are told — from the birth of stars
-            to the secret lives of cells.
+            Where the universe's greatest stories are told — from the birth of
+            stars to the secret lives of cells.
           </p>
 
-          {/* category filter */}
+          {/* category filter pills */}
           <div className="category-bar">
             {['All', ...categories].map(cat => (
               <button
@@ -52,10 +47,12 @@ export default function Home({ stories, categories }) {
           </div>
         </section>
 
-        {/* ── STORIES ── */}
+        {/* ── STORIES GRID ── */}
         <section className="stories-section container">
           <p className="section-label">
-            {activeCategory === 'All' ? 'All Stories' : activeCategory} &nbsp;·&nbsp; {filtered.length} {filtered.length === 1 ? 'story' : 'stories'}
+            {activeCategory === 'All' ? 'All Stories' : activeCategory}
+            &nbsp;·&nbsp;
+            {filtered.length} {filtered.length === 1 ? 'story' : 'stories'}
           </p>
 
           {filtered.length > 0 ? (
@@ -79,7 +76,7 @@ export default function Home({ stories, categories }) {
         </section>
 
         <footer className="footer">
-          <strong>Webshakk Cosmos</strong> &nbsp;·&nbsp; Science Stories for the Curious Mind
+          <strong>Webshakk Cosmos</strong> · Science Stories for the Curious Mind
         </footer>
       </div>
     </>
@@ -89,7 +86,5 @@ export default function Home({ stories, categories }) {
 export async function getStaticProps() {
   const stories = getAllStories()
   const categories = getAllCategories()
-  return {
-    props: { stories, categories }
-  }
+  return { props: { stories, categories } }
 }
