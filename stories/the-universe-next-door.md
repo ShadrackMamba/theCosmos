@@ -5,6 +5,8 @@ category: "Space"
 author: "Webshakk Cosmos"
 excerpt: "For most of human history, we believed the Milky Way was everything. Then, in a single photograph taken on a cold October night in 1923, one man changed the size of the universe forever. This is the story of how humanity discovered that we were not alone — and never had been."
 readTime: "14 min read"
+eventAge: "13200000000"
+eventLabel: "13.2 billion years ago
 ---
 
 ---section---

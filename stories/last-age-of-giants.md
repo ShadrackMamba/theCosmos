@@ -5,6 +5,8 @@ category: "Earth"
 author: "Webshakk Cosmos"
 excerpt: "66 million years ago, a 12-kilometre asteroid ended the 165-million-year reign of the dinosaurs. This is the complete story — before, during, and after the impact."
 readTime: "12 min read"
+eventAge: "66000000"
+eventLabel: "66 million years ago"
 ---
 
 ---section---

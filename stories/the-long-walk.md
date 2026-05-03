@@ -5,6 +5,8 @@ category: "Biology"
 author: "Webshakk Cosmos"
 excerpt: "Seven million years ago, something stood up in Africa. It was not yet human — not even close. But that first upright step set in motion the longest, strangest, most improbable journey in the history of life on Earth. This is the story of how we became us."
 readTime: "18 min read"
+eventAge: "7000000"
+eventLabel: "7 million years ago"
 ---
 
 ---section---

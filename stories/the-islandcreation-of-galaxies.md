@@ -5,6 +5,8 @@ category: "Space"
 author: "Webshakk Cosmos"
 excerpt: "There are two trillion of them — each one a universe unto itself, containing billions of suns, vast clouds of gas, and the raw material of worlds yet to be born. This is the story of galaxies: what they are, how they formed, and what they tell us about where everything came from."
 readTime: "16 min read"
+eventAge: "13200000000"
+eventLabel: "13.2 billion years ago"
 ---
 
 ---section---
