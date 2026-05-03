@@ -9,7 +9,7 @@ readTime: "18 min read"
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1600&q=80
+bg: https://www.icirnigeria.org/wp-content/uploads/2023/01/Homo_sapiens_neanderthalensis-Mr._N-1.jpg
 chapter: Prologue
 heading: The Footprints at Laetoli
 overlayOpacity: 0.48
@@ -23,7 +23,7 @@ They were footprints — hominin footprints, pressed into volcanic ash that had 
 
 The footprints are, to this day, one of the most moving objects in the entire story of human evolution. They are unmistakably human in form — the arch, the heel strike, the push-off from the big toe. Donald Johanson, who studied them alongside his discovery of Lucy, said: *"The footprints that were found are identical to the footprints you and I leave in the beach sand."*
 
-::photo[https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200&q=80](The African savanna — the landscape where the entire story of human evolution unfolded, from the first upright steps to the emergence of language, fire, and art)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77JDmcLjqtigaJ-L93RNc2xb-2TnbMdXY1g&s](The African savanna — the landscape where the entire story of human evolution unfolded, from the first upright steps to the emergence of language, fire, and art)
 
 Two individuals, walking side by side, through volcanic ash on the plains of East Africa, 3.7 million years ago. They left no other trace. We do not know their names — they did not have names. We do not know where they were going. We do not know if they were afraid, or curious, or simply moving from one place to another in the ordinary business of their day.
 
@@ -31,7 +31,7 @@ But they walked upright. And in that fact lies the beginning of everything that 
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1600&q=80
+bg: https://cdn.sci.news/images/2016/03/image_3690f-East-Africa-Hominins.jpg
 chapter: Chapter I · The First Steps
 heading: Seven Million Years Ago — Something Stands Up
 overlayOpacity: 0.52
@@ -43,7 +43,7 @@ The split occurred somewhere between **6 and 7 million years ago** in Africa, tr
 
 It was in this transition zone — the boundary between forest and grassland — that the first hominins appeared.
 
-::photo[https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=1200&q=80](The African woodland-savanna boundary — the ecological frontier where the first hominins emerged, caught between the retreating forests and the expanding grasslands)
+::photo[https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153135111/settings_images/134072-6a3e-0ad4-1e66-f7c2050c72a_80829e17-8301-44cb-9dbf-c5752363320c.jpg](The African woodland-savanna boundary — the ecological frontier where the first hominins emerged, caught between the retreating forests and the expanding grasslands)
 
 The earliest known candidate for a hominin is *Sahelanthropus tchadensis*, discovered in Chad in 2001 and dated to approximately 6–7 million years ago. It had a small brain, ape-like features, and a face that would look to modern eyes like a chimpanzee — and yet the position of the foramen magnum, the hole through which the spinal cord connects to the brain, suggests it may have held its head atop a vertical spine. It may have walked upright, at least some of the time.
 
@@ -53,7 +53,7 @@ Whatever the reason, the first upright step was taken. And from it, everything e
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1448375240586-882707db888b?w=1600&q=80
+bg: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dPFFv6A6qRX9JI9Fn-bkJyDzXCYdjT862g&s
 chapter: Chapter II · Lucy
 heading: November 24, 1974
 overlayOpacity: 0.50
@@ -65,7 +65,7 @@ Johanson had been about to return to camp to write up his field notes when he sp
 
 It took three weeks to excavate the site. When the team had finished, they had recovered approximately 40% of a complete skeleton — the most complete early hominin fossil ever found at that time. That evening, at the celebration in camp, a tape recorder played *Lucy in the Sky with Diamonds* by the Beatles on repeat. The skeleton was named Lucy.
 
-::photo[https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80](The Afar region of Ethiopia — one of the most productive fossil sites in the world, the barren landscape where Lucy lay undisturbed for 3.2 million years before Johanson found her arm bone protruding from the gravel)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dPFFv6A6qRX9JI9Fn-bkJyDzXCYdjT862g&s](The Afar region of Ethiopia — one of the most productive fossil sites in the world, the barren landscape where Lucy lay undisturbed for 3.2 million years before Johanson found her arm bone protruding from the gravel)
 
 Lucy — formally designated AL 288-1, *Australopithecus afarensis* — was approximately **3.2 million years old**. She stood about 1.1 metres tall and weighed around 29 kilograms. Her brain was small — roughly 400 cubic centimetres, about the size of a modern chimpanzee's. Her face was ape-like, with a projecting jaw and heavy brow. But her legs were long relative to her arms, her pelvis was shaped for upright walking, and her knee joint was identical in structure to a modern human's.
 
@@ -77,7 +77,7 @@ We walked before we thought. At least, before we thought like this.
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&q=80
+bg: https://cdn.britannica.com/88/255988-138-CCB29EBC/why-dont-humans-have-tails-evolution-tail-loss-genetic-mutation.jpg?w=800&h=450&c=crop
 chapter: Chapter III · The Genus Homo
 heading: The First of Us — 2.8 Million Years Ago
 overlayOpacity: 0.54
@@ -93,7 +93,7 @@ In this crucible, a new kind of hominin appeared: the first members of the genus
 
 It made tools.
 
-::photo[https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80](The volcanic highlands of East Africa — the environment that forged the genus Homo, where intensifying pressure from climate change drove the rapid evolution of larger brains and more complex behaviour)
+::photo[https://imageio.forbes.com/blogs-images/startswithabang/files/2018/03/astardisturb.jpg?format=jpg&height=600&width=1200&fit=bounds](The volcanic highlands of East Africa — the environment that forged the genus Homo, where intensifying pressure from climate change drove the rapid evolution of larger brains and more complex behaviour)
 
 The stone tools associated with *Homo habilis* — known as the **Oldowan industry**, dating to approximately 2.6 million years ago — are simple by any standard: river cobbles struck with another rock to create a sharp edge. You or I could make one in a few minutes. But they represented something profound: the deliberate modification of one object to create another, the application of forethought to the material world.
 
@@ -103,7 +103,7 @@ The brain was growing. And it was growing, in part, because it was being fed.
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1600&q=80
+bg: https://blog.richmond.edu/heroes/files/2013/10/EARLY-man-using-fire.jpg
 chapter: Chapter IV · Out of Africa — The First Time
 heading: Homo Erectus Walks the World
 overlayOpacity: 0.52
@@ -115,7 +115,7 @@ It was also the first hominin to leave Africa.
 
 Beginning around 1.8 million years ago, populations of *Homo erectus* spread out of Africa and across Eurasia — into the Middle East, into South and Southeast Asia, eventually into Europe. Fossils have been found in Georgia, China, Java, and Spain. This was not a single migration but a series of gradual range expansions, populations following game and resources across landscapes that were, at various points in the ice age cycles, very different from today.
 
-::photo[https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=80](The landscapes of Eurasia that Homo erectus crossed — from the savannas of Africa through the Middle East and across Asia, the first hominin to populate the world beyond its continent of origin)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQykzAoo76df3bZmJ-swwGblBWbJh_6W6M4w&s](The landscapes of Eurasia that Homo erectus crossed — from the savannas of Africa through the Middle East and across Asia, the first hominin to populate the world beyond its continent of origin)
 
 *Homo erectus* was almost certainly the first hominin to use **fire** — though this remains debated, with the clearest evidence dating to around 800,000 years ago at sites in Israel and South Africa. Fire was not merely warmth. It was a transformation. Cooked food — far easier to digest than raw — released more calories from the same quantity of food, fuelling the energy demands of a growing brain. Cooking may have been, as anthropologist Richard Wrangham has argued, the technological innovation that made modern humans possible.
 
@@ -123,7 +123,7 @@ Beginning around 1.8 million years ago, populations of *Homo erectus* spread out
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1600&q=80
+bg: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRueRNQr0Pz6SWnpRu-v0HbuAfjRInc-DTUvA&s
 chapter: Chapter V · The Others
 heading: We Were Never Alone
 overlayOpacity: 0.55
@@ -135,7 +135,7 @@ Not distant ancestors. Not primitive predecessors. Other species of the genus *H
 
 The **Neanderthals** — *Homo neanderthalensis* — are the best known. They evolved in Europe and western Asia beginning around 430,000 years ago, and they were not the brutish, dim-witted cave-dwellers of popular imagination. They had brains as large as ours, and in some cases larger. They buried their dead — sometimes with flowers, suggesting ritual. They made jewellery from eagle talons and shells. They cared for their injured and elderly. They made musical instruments.
 
-::photo[https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200&q=80](The caves of Europe — home to Neanderthals for hundreds of thousands of years before modern humans arrived. In these same caves, both species sheltered, hunted, and perhaps met)
+::photo[https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/e1e61d9f9f8ad1f2da6437da2df6d65c.jpg](The caves of Europe — home to Neanderthals for hundreds of thousands of years before modern humans arrived. In these same caves, both species sheltered, hunted, and perhaps met)
 
 The Neanderthals went extinct approximately 40,000 years ago — shortly after modern humans arrived in Europe. The cause of their extinction is still debated: climate change, competition with *Homo sapiens*, disease, or some combination of all three.
 
@@ -149,7 +149,7 @@ The Neanderthals are not gone. They are, in small but measurable part, still her
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1600&q=80
+bg: https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/e1e61d9f9f8ad1f2da6437da2df6d65c.jpg
 chapter: Chapter V · The Others
 heading: The Denisovans — A Ghost People
 overlayOpacity: 0.58
@@ -183,7 +183,7 @@ For the first 200,000 years of our existence, we lived in small groups, used rel
 
 Then, beginning around 100,000 years ago and accelerating sharply around 70,000–50,000 years ago, something changed. Archaeologists call it the **cognitive revolution** — a flowering of symbolic thought, language, art, and complex social organisation that transformed what it meant to be human.
 
-::photo[https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=1200&q=80](A cave — the canvas of the cognitive revolution. Modern humans began painting the walls of caves across the world around 40,000 years ago, leaving behind the earliest surviving evidence of art, myth, and the human imagination)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUnym-wDW--KO_FJp8lyHRl4nCDBJ1jzjHA&s](A cave — the canvas of the cognitive revolution. Modern humans began painting the walls of caves across the world around 40,000 years ago, leaving behind the earliest surviving evidence of art, myth, and the human imagination)
 
 No one knows exactly what triggered this revolution. The leading hypothesis is language — not the capacity for language, which may be much older, but the evolution of a fully modern, recursive, infinitely expressive form of language capable of conveying abstract concepts, hypothetical futures, and fictional worlds. With language like this, knowledge could accumulate across generations. Culture — the transmission of learned information — became as powerful a force in shaping human adaptation as genetics itself.
 
@@ -193,7 +193,7 @@ Someone, 40,000 years ago, stood in a dark cave with a lamp made from animal fat
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1600&q=80
+bg: https://images.theconversation.com/files/349316/original/file-20200724-21-11i7885.jpg?ixlib=rb-4.1.0&rect=53%2C997%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop
 chapter: Chapter VII · Out of Africa — The Second Time
 heading: We Spread Across the World
 overlayOpacity: 0.50
@@ -205,7 +205,7 @@ It was not a single event. It was a series of waves, over tens of thousands of y
 
 They reached the Middle East first, then Central and South Asia. By 65,000 years ago, they had crossed to Australia — an ocean crossing that required boats or rafts, making these early Australians among the first known seafarers in history. By 45,000 years ago, they were in Europe, where they encountered — and interbred with — the Neanderthals. By 15,000 years ago, they had crossed the land bridge of Beringia into North America, and from there spread south through two continents in a matter of millennia.
 
-::photo[https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=80](The landscapes our ancestors crossed — 70,000 years ago, small bands of modern humans began moving out of Africa, eventually colonising every habitable continent on Earth within 60,000 years)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTClhLjjvMqosvcNGEg3MUsGkEJ2UKy6IwZqQ&s](The landscapes our ancestors crossed — 70,000 years ago, small bands of modern humans began moving out of Africa, eventually colonising every habitable continent on Earth within 60,000 years)
 
 Everywhere they went, something happened. The megafauna — the giant animals that had evolved without any experience of human hunters — began to disappear. Mammoths, woolly rhinoceroses, giant ground sloths, enormous marsupials in Australia: species after species vanished in the millennia following human arrival. Whether this was primarily caused by hunting, climate change, or a combination remains debated. But the correlation is striking enough that many researchers call it the first great human-caused extinction event.
 
@@ -213,7 +213,7 @@ By 12,000 years ago, *Homo sapiens* had reached every continent except Antarctic
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=1600&q=80
+bg: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OgzDJmk_C5NUlVeTM6nqpWobefz-0yBrVQ&s
 chapter: Chapter VIII · The Revolution That Changed Everything
 heading: Agriculture and the World We Made
 overlayOpacity: 0.52
@@ -221,13 +221,13 @@ overlayOpacity: 0.52
 
 For 290,000 of the 300,000 years that *Homo sapiens* has existed, we were hunter-gatherers. Small, mobile bands of 20–150 people, moving through the landscape, living off what the land provided — hunting, fishing, gathering plants, nuts, berries, tubers. It was not, as sometimes portrayed, a life of constant struggle and scarcity. Evidence from modern hunter-gatherer societies and from ancient remains suggests it was a life of substantial leisure, varied diet, and remarkable physical health.
 
-Then, approximately **12,000 years ago**, in the region known as the Fertile Crescent — a crescent of land stretching through what is now Iraq, Syria, Turkey, Lebanon, Israel, and Jordan — something entirely new appeared: **agriculture**.
+Then, approximately 12,000 years ago**, in the region known as the Fertile Crescent — a crescent of land stretching through what is now Iraq, Syria, Turkey, Lebanon, Israel, and Jordan — something entirely new appeared: **agriculture**.
 
 The domestication of wheat, barley, lentils, and later animals — sheep, goats, cattle, pigs — was not a planned revolution. It was a slow, accidental process, as people living near wild grain fields began to manage and tend them, selecting, over generations, the plants with the largest seeds and the easiest to harvest. But its consequences were total.
 
-::photo[https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=1200&q=80](The fertile river valleys of the ancient world — the birthplace of agriculture, cities, writing, and civilisation, all of which emerged within the last 12,000 years — the final fraction of the human story)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIbww0Cr1wuDxhjaAh3AnaEg8qdwj-FCB0Q&s](The fertile river valleys of the ancient world — the birthplace of agriculture, cities, writing, and civilisation, all of which emerged within the last 12,000 years — the final fraction of the human story)
 
-Agriculture produced surplus. Surplus allowed specialisation — people who did not farm, but instead made pots, or weapons, or managed trade. Specialisation produced towns, and towns grew into cities. Cities required organisation, record-keeping, law. And from these needs emerged, independently in at least six different regions of the world, **writing** — the technology that allowed human knowledge to escape the confines of individual memory and accumulate across centuries.
+Agriculture produced surplus. Surplus allowed specialisation — people who did not farm, but instead made pots, or weapons, or managed trade. Specialisation produced towns, and towns grew into cities. Cities required organisation, record-keeping, law. And from these needs emerged, independently in at least six different regions of the world, writing — the technology that allowed human knowledge to escape the confines of individual memory and accumulate across centuries.
 
 In the span of 12,000 years — less than 4% of the total history of *Homo sapiens* — the species went from small bands of hunter-gatherers to a civilisation capable of building the pyramids, writing philosophy, composing music, and eventually sending telescopes into orbit to photograph the earliest galaxies.
 
@@ -235,7 +235,7 @@ The pace of change has not slowed. It has accelerated.
 
 ---section---
 ---
-bg: https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1600&q=80
+bg: https://www.icirnigeria.org/wp-content/uploads/2023/01/Homo_sapiens_neanderthalensis-Mr._N-1.jpg
 chapter: Epilogue
 heading: The Animal That Asks Why
 overlayOpacity: 0.45
@@ -243,11 +243,11 @@ overlayOpacity: 0.45
 
 Seven million years ago, something stood up on the African savanna. It did not know it was standing up for any reason. It did not know it was the beginning of anything. It simply stood, because standing was, in that moment and in that place, a marginally better strategy for survival than not standing.
 
-From that first bipedal step to the footprints at Laetoli. From Laetoli to Lucy. From Lucy to *Homo habilis* and the first stone tools. From tools to fire. From fire to language. From language to art, to agriculture, to cities, to science.
+From that first bipedal step to the footprints at Laetoli. From Laetoli to Lucy. From Lucy to Homo habilis and the first stone tools. From tools to fire. From fire to language. From language to art, to agriculture, to cities, to science.
 
 The journey took seven million years. It was not linear — it was a bush, not a ladder, with dozens of branches, dozens of species, most of them dead ends. It involved luck, catastrophe, climate, and contingency at every turn. A different drought, a different migration route, a different volcanic eruption, and the story ends differently — or does not happen at all.
 
-::photo[https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200&q=80](The African savanna at dawn — the stage on which the entire human story was written, from the first upright steps seven million years ago to the emergence of a species that would eventually look back and try to understand how it got here)
+::photo[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OgzDJmk_C5NUlVeTM6nqpWobefz-0yBrVQ&s](The African savanna at dawn — the stage on which the entire human story was written, from the first upright steps seven million years ago to the emergence of a species that would eventually look back and try to understand how it got here)
 
 And yet here we are. The descendants of those two individuals walking through volcanic ash at Laetoli 3.7 million years ago. Carrying in our DNA the legacy of Neanderthals, Denisovans, and perhaps other ancient peoples we have not yet identified. The product of seven million years of selection, adaptation, migration, and improbable survival.
 
@@ -259,8 +259,8 @@ Why are we here? Where did we come from? How did this happen? What does it mean?
 
 The footprints at Laetoli have no answer to those questions. The bones of Lucy have no answer. The cave paintings at Chauvet and Lascaux have no answer, only the image of the hand that made them — pressed against a rock wall in the dark, 36,000 years ago, in the unmistakable gesture of a creature that wanted to say:
 
-*I was here.*
+I was here.
 
 We are still saying it. In every telescope pointed at the sky, every fossil pulled from the earth, every book written and read, every question asked in the dark.
 
-*I was here. And I want to understand.*
+I was here. And I want to understand.
